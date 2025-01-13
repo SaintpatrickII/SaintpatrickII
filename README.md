@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a a data engineering pipeline
-- 🌱 I’m currently learning ... Pyspark
+- 🔭 I’m currently working my Databricks Data Engineering Associate Certification
+- 🌱 I’m currently learning ... DBT
 - 💬 Ask me about Anything!
 - 📫 How to reach me: https://www.linkedin.com/in/patrick-govus-b04014175/
 - 😄 Pronouns: He/Him
